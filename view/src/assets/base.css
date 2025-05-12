@@ -1,0 +1,43 @@
+/* color palette from <https://github.com/vuejs/theme> */
+@import './resource.css';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+li{
+  list-style: none;
+}
+input{
+  border: none;
+  outline: none;
+}
+a{
+  text-decoration: none;
+  color:inherit;
+}
+#app,
+#body,
+html,
+.wrapper,
+.layout_view ,
+.layout_inner{
+  height: 100%;
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6;
+  font-family:
+    'HarmonyOS Sans',
+    'HarmonyOS Sans SC',
+    'HarmonyOS Sans Condensed',
+    sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
