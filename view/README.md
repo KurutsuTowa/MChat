@@ -1,6 +1,6 @@
 # MChat
 
-基于nodejs + vue3搭建的，通过websocket通信的的有bug的社交平台
+基于nodejs + vue3搭建的，通过websocket通信的有bug的社交平台
 
 ## 安装依赖
 
