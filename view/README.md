@@ -1,4 +1,4 @@
-# MChathttps://github.com/KurutsuTowa/MChat/blob/main/view/README.md
+# MChat
 
 基于nodejs + vue3搭建的，通过websocket通信的的有bug的社交平台
 
