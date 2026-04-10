@@ -1,28 +1,20 @@
-# MChat
+# MChathttps://github.com/KurutsuTowa/MChat/blob/main/view/README.md
 
-This template should help get you started developing with Vue 3 in Vite.
+基于nodejs + vue3搭建的，通过websocket通信的的有bug的社交平台
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## 安装依赖
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 启动
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 打包
 
 ```sh
 npm run build
